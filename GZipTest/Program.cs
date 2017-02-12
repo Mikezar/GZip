@@ -20,10 +20,10 @@ namespace GZipTest
             try
             {
                 //UNCOMMENT ON WORKING WITH CONSOLE!
-                args = new string[3];
-                args[0] = @"compress";
-                args[1] = @"C:\Users\Mike\Desktop\olifer_ru.pdf";
-                args[2] = @"C:\Users\Mike\Desktop\new.pdf";
+                //args = new string[3];
+                //args[0] = @"compress";
+                // args[1] = @"C:\Users\Mike\Desktop\olifer_ru.pdf";
+                //args[2] = @"C:\Users\Mike\Desktop\new.pdf";
 
 
                 Validation.StringReadValidation(args);
